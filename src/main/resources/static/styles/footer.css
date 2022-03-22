@@ -1,0 +1,26 @@
+footer {
+  margin-top: 80px;
+  padding-bottom: 35px;
+  font-size: 12px;
+  line-height: 17px;
+  text-align: center;
+  color: #a3a3a3;
+}
+footer > div {
+  margin-bottom: 10px;
+}
+footer > div:last-child {
+  margin-bottom: 0;
+}
+footer > div > a {
+  color: #8f8e94;
+  text-decoration: none;
+}
+footer .ad {
+  color: #62646c;
+}
+footer .ad > a {
+  color: #62646c;
+  margin-left: 8px;
+  text-decoration: none;
+}

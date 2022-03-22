@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+
+    <div class="share-container">
+        <!-- 关闭 -->
+        <span class="close"></span>
+        <!-- 分享 -->
+        <div class="share">
+            <span></span>
+            分享
+        </div>
+        <div class="modal-share-platform" th:replace="share::share"></div>
+        <div class="content">
+            <!-- 头部 -->
+            <div class="top">
+                <div class="head-icon"></div>
+                <h4 th:text="${singer.name}"></h4>
+                <div class="like">喜欢&nbsp;&nbsp;1344</div>
+            </div>
+            <!-- 全部精选歌曲 -->
+            <div class="select-song">
+                <!-- 标题 -->
+                <div class="title">
+                    <span></span>
+                    全部精选歌曲
+                </div>
+                <!-- 歌曲列表 -->
+                <ul class="song-list">
+                    <li th:each="songItem, sit: ${songs}">
+                        <span th:style="'background:url(' + ${songItem.cover} + ') no-repeat center;background-size: contain;'"></span>
+                        <span th:text="${it.count} + '.' + ${songItem.name}"></span>
+                    </li>
+                </ul>
+                <!-- 查看全部精选歌曲 -->
+                <div class="look-all">查看全部精选歌曲</div>
+            </div>
+            <!-- 系列 -->
+            <div class="series">
+                <!-- 标题 -->
+                <div class="title">
+                    <span></span>
+                    <span th:text="${subject.name}"></span>
+                </div>
+                <p class="sub-title">该兆赫可能包含以下相似艺术家的歌曲</p>
+                <ul class="artists">
+                    <li th:each="sSingerItem, ssit: ${simSingers}">
+                        <div class="head-icon"
+                             th:style="'background: url(' + ${sSingerItem.avatar} + ') no-repeat center;background-size: contain;'"></div>
+                        <span th:text="${sSingerItem.name}"></span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+</html>
+
+
+

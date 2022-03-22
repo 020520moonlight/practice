@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+
+    <div class="explore">
+        <ul class="nav">
+            <li tabindex="0" class="item">
+                <span class="radio-icon"></span>
+                <a href="/index"><span class="txt">兆赫</span></a>
+            </li>
+            <li tabindex="0" class="item">
+                <span class="cd-icon"></span>
+                <a href="/collection"><span class="txt">歌单</span></a>
+            </li>
+            <li tabindex="0" class="item item-selected">
+                <span class="cd-icon"></span>
+                <span class="txt">我的</span>
+            </li>
+        </ul>
+        <ul class="nav">
+            <li tabindex="0" class="item item-selected">
+                <span class="txt">我的红心</span>
+            </li>
+        </ul>
+        <div class="select-song">
+            <!-- 歌曲列表 -->
+            <ul class="song-list">
+                <li th:each="song,sit: ${songs}">
+                    <span th:style="'background:url(' + ${song.cover} + ') no-repeat center;background-size: contain;'"></span>
+                    <span th:text="{{sit.count}} + '.' + {{song.name}}"></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+</html>

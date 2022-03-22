@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+
+    <div class="share-detail-container">
+        <!-- 关闭 -->
+        <span class="close"></span>
+        <!-- 返回 -->
+        <div class="back">返回</div>
+        <!-- 分享 -->
+        <div class="share">
+            <span></span>
+            分享
+        </div>
+        <!-- 分享弹出框 -->
+        <div class="modal-share-platform" th:replace="share::share"></div>
+        <div class="content">
+            <!-- 头部 -->
+            <div class="head">
+                <div class="top">
+                    <div class="left" th:style="'background: url(' + ${subject.cover} + ') no-repeat center;'">
+                        <div class="play-icon">
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="right">
+                        <span class="title" th:text="${subject.name}"></span>
+                        <span class="sub-title" th:text="${singer.name} + ' 创建' + ${songs.size()} + '首歌曲 ' + ${subject.publishedDate}"></span>
+                    </div>
+                </div>
+                <ul class="change-items">
+                    <li class="selected" th:text="'歌曲列表(' + ${songs.size()} + ')'"></li>
+                    <li th:if="${otherSubjects != null}" th:text="'豆瓣FM的其它歌单(' + ${otherSubjects.size()} + ')'"></li>
+                </ul>
+            </div>
+            <!-- 全部精选歌曲 -->
+            <div class="select-song">
+                <!-- 歌曲列表 -->
+                <ul class="song-list">
+                    <li th:each="song,sit: ${songs}">
+                        <span th:style="'background:url(' + ${song.cover} + ') no-repeat center;background-size: contain;'"></span>
+                        <span th:text="{{sit.count}} + '.' + {{song.name}}"></span>
+                    </li>
+                </ul>
+                <ul class="other-song-list">
+                    <li th:each="otherSubject,osit: ${otherSubjects}">
+                        <div class="head-icon"
+                             th:style="'background:url(' + otherSubject.cover + ') no-repeat center;background-size:contain;'"
+                        ></div>
+                        <div class="right">
+                            <h4 th:text="${otherSubject.name}"></h4>
+                            <p class="song-collection"><span th:if="${otherSubject.songIds != null}" th:text="${otherSubject.songIds.size()} + '首'"></span><span> 0收藏</span></p>
+                            <p class="date" th:text="${otherSubject.publishedDate} + ' 更新'"></p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</html>

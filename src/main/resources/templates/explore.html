@@ -1,0 +1,90 @@
+<div class="explore" th:fragment="explore">
+    <ul class="nav">
+        <li tabindex="0" class="item item-selected">
+            <span class="radio-icon"></span>
+            <span class="txt">兆赫</span>
+        </li>
+        <li tabindex="0" class="item">
+            <span class="cd-icon"></span>
+            <a href="/collection"><span class="txt">歌单</span></a>
+        </li>
+    </ul>
+    <div class="mhz">
+        <div class="channel-menu">
+            <div class="item">
+                <div class="play-btn">
+                    <img src="data:image/png;base64,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"
+                         alt="">
+                    <div class="play-mask play-mask-playing">
+                        <span class="play-icon"></span>
+                        <span class="playing-icon"></span>
+                    </div>
+                </div>
+                <div class="txt">
+                    <div class="title">
+                        <a href="#">我的私人兆赫</a>
+                    </div>
+                    <div class="subtitle">豆瓣FM会根据你的喜好来推荐歌曲，让你与喜欢的音乐不期而遇</div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="play-btn">
+                    <img src="/img/public.27625caf.png" alt="">
+                    <div class="play-mask">
+                        <div class="mask"></div>
+                        <span class="play-icon"></span>
+                        <span class="playing-icon"></span>
+                    </div>
+                </div>
+                <div class="txt">
+                    <div class="title">
+                        <a href="#">豆瓣精选兆赫</a>
+                    </div>
+                    <div class="subtitle">汇聚各种音乐风格的精选兆赫，从这里开始音乐漫游吧</div>
+                </div>
+            </div>
+        </div>
+        <section>
+            <div class="channel-img-title">
+                <div class="txt">从艺术家出发</div>
+                <span class="channel-img-title-icon"></span>
+                <span class="channel-img-title-hint">包含和该艺术家相似的一些艺术家的歌曲</span>
+            </div>
+            <div class="channel-img">
+                <div class="item" th:each="artistItem,ait: ${artistDatas}" th:classappend="${ait.count} > 10 ? 'none':''">
+                    <div class="play-btn">
+                        <img th:src="${artistItem.cover}" alt="">
+                        <div class="play-mask">
+                            <div class="mask"></div>
+                            <span class="play-icon"></span>
+                            <span class="playing-icon"></span>
+                        </div>
+                    </div>
+                    <div class="txt">
+                        <div class="title">
+                            <a th:href="'/artist?subjectId=' + ${artistItem.id}" th:text="${artistItem.name}"></a>
+                        </div>
+                        <div class="subtitle" th:text="${artistItem.description}"></div>
+                    </div>
+                </div>
+            </div>
+            <button class="loadmore">加载更多兆赫</button>
+        </section>
+        <section>
+            <div class="channel-txt-wrapper" th:each="mhzViewItem,vit: ${mhzViewModels}">
+                <div class="channel-txt-title" th:text="${mhzViewItem.title}"></div>
+                <div class="channel-txt">
+                    <div class="item" th:each="subjectItem,sit: ${mhzViewItem.subjects}">
+                        <div class="txt">
+                            <div class="title">
+                                <a href="/detail" th:text="${subjectItem.name}"><span>MHz</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="/js/explore.js"></script>
+</div>

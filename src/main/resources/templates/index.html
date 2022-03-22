@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+    <div class="player" th:replace="player::player"></div>
+    <div class="explore" th:replace="explore::explore"></div>
+</div>
+
+</html>

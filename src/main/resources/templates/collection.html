@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+
+    <div class="song-sheet">
+        <div class="song-sheet-column" th:each="subjectColumnItem,scit: ${subjectColumns}">
+            <div class="sheet" th:each="subjectItem,sit: ${subjectColumnItem}">
+                <div class="cover">
+                    <img th:src="${subjectItem.subject.cover}" alt="">
+                    <div class="play-mask">
+                        <div class="mask"></div>
+                        <span class="play-icon"></span>
+                        <span class="playing-icon"></span>
+                    </div>
+                </div>
+                <div class="title">
+                    <a th:href="'/collectiondetail?subjectId=' + ${subjectItem.subject.id}"><span class="type" th:text="${subjectItem.subject.name}"></span></a>
+                </div>
+                <div class="subtitle" th:if="${subjectItem.singer != null}" th:text="${subjectItem.singer.name} + ' 创建'"></div>
+                <div class="song" th:if="${subjectItem.songs != null}" th:each="songItem,songit: ${subjectItem.songs}" th:text="${songItem.name}"></div>
+                <div class="extro-info">
+                    <span th:if="${subjectItem.subject.songIds != null}" th:text="'曲目：' + ${subjectItem.subject.songIds.size()}"></span>
+                    <span th:if="${subjectItem.subject.songIds == null}">曲目：0</span>
+                    <span class="gap"></span>
+                    <span class="extro-info">收藏：0</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</html>

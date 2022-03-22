@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+
+    <div class="form">
+        <div class="tabs">
+            <div class="tab login tab-selected" tabindex="0">密码登录</div>
+            <div class="tab signup" tabindex="0"><a href="/sign">注册</a></div>
+        </div>
+        <div class="form-login">
+            <div class="hint" style="display:none">
+                <span class="hint-icon"></span>
+                <span class="txt">用户名或密码错误</span>
+            </div>
+            <div class="username">
+                <input
+                        type="text"
+                        class="username-input"
+                        placeholder="用户名"
+                        onblur="onblur"
+                        name="name"
+                >
+            </div>
+            <div class="pwd">
+                <input
+                        type="password"
+                        class="pwd-input"
+                        placeholder="密码"
+                        name="password"
+                >
+                <a
+                        href="#"
+                        class="pwd-retrieve"
+                >找回密码</a>
+            </div>
+            <button
+                    type="submit"
+                    class="submit"
+            >登录豆瓣</button>
+            <div class="auto-login">
+                <input type="checkbox" name="" id="auto-login-checkbox">
+                <label for="auto-login-checkbox">下次自动登录</label>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</html>

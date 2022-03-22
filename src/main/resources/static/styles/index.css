@@ -1,0 +1,22 @@
+#app {
+  font-size: 30px;
+  font-family: PingFang SC;
+}
+
+.modal {
+  background: #FFFFFF;
+}
+.modal .modal-mask {
+  height: 100%;
+  background: url(../assets/images/modal-bg.png) no-repeat calc(50% - 520px) center/318px 318px, url(../assets/images/modal-bg.png) no-repeat calc(50% + 520px) center/318px 318px;
+}
+.modal .modal-body .transform {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.player-shrink + .explore .nav {
+  margin-top: 400px;
+  height: 104px;
+}

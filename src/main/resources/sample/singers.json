@@ -1,0 +1,929 @@
+[
+  {
+    "id": "11004",
+    "gmtCreated": "2020-05-09 11:06:05",
+    "gmtModified": "2020-05-09 11:06:05",
+    "name": "Club 8",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32454.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "13067",
+    "gmtCreated": "2020-05-09 11:06:05",
+    "gmtModified": "2020-05-09 11:06:05",
+    "name": "Azure Ray",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32979.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "11961",
+    "gmtCreated": "2020-05-09 11:06:05",
+    "gmtModified": "2020-05-09 11:06:05",
+    "name": "Elliott Smith",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32935.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "17979",
+    "gmtCreated": "2020-05-09 11:06:05",
+    "gmtModified": "2020-05-09 11:06:05",
+    "name": "Eleni Mandell",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/33259.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "13169",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Achillea",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/1944707.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "29089",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "郁可唯",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31645.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "5149",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "韩雪",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32090.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "29374",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "刘惜君",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32580.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "15992",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "金莎",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31763.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "15713",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Audrey",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/1963212.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "11082",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Keane",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32396.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "1361",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Travis",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32791.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12288",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Snow Patrol",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32458.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "9260",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Vega4",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32260.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "30669",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Peter Malick",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/2790.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8358",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Norah Jones",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31426.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "157",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Corinne Bailey Rae",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32411.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "13742",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Jack Johnson",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31399.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12430",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "B'z",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/910807.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "47828",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Jessie J",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31640.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "1515",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Rihanna",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31247.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "3600",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Beyoncé",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31263.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12349",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Katy Perry",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31572.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "25520",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "萧希榆",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31681.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "3468",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "黄淑惠",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32299.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "11723",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "深白色2人组",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32083.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "18030",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "许哲佩",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31688.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "2188",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Antrabata",
+    "avatar": "https://img3.doubanio.com/f/fm/31cb344d1af3c34978484b17d9c3241d89259080/pics/fm/artist/default_avatar/person_large.png",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "4289",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Colbie Caillat",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31937.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "16033",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Courtney Jaye",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32274.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14383",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Jordan Pruitt",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/908364.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14292",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Carrie Underwood",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32744.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12696",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Armor For Sleep",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/1564524.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "47776",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "B.o.B",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32139.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "31571",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Flo Rida",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31816.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "47758",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Bruno Mars",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31499.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "51976",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Wiz Khalifa",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/33359.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8298",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "萧煌奇",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31685.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "33604",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "张心杰",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32886.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "13752",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "杨培安",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32464.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "18480",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "吕方",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31911.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "13530",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "薛凯琪",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31359.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "508",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "容祖儿",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31405.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "25535",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "蔡卓妍",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31599.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "5634",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "谢安琪",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31282.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8409",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Bad Brains",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/892408.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "45227",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "筷子兄弟",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31775.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "28950",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "王铮亮",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/33040.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "32149",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "袁成杰",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/33397.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "4797",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "彭坦",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31651.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "13925",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "王啸坤",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32437.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8039",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "麦田守望者",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32597.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "55556",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "王梵瑞",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32116.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "7329",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "Ataraxia",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/720705.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "5478",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "张韶涵",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31422.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "6645",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "蔡依林",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31294.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12840",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "王心凌",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31353.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "10378",
+    "gmtCreated": "2020-05-09 11:06:06",
+    "gmtModified": "2020-05-09 11:06:06",
+    "name": "杨丞琳",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31334.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8286",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Bruno Coulais",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31941.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8581",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Les Choristes",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/1566129.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14359",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Yann Tiersen",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31628.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "10904",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "John Williams",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31943.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "7410",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "雷光夏",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31683.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "9839",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "魏如萱",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31452.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "3372",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Coverpeople",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/2502.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "15152",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "彭靖惠",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32784.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "26306",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Elizabeth Mitchell",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32717.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "15730",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "David Roth",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/879692.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "18456",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Connie Talbot",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/711535.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "29546",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Keri Noble",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/882314.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "5791",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "久石譲",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31290.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "3624",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "井上あずみ",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32080.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "35066",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "杉並児童合唱団",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32793.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "35186",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "奥戸巴寿",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/1566074.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "10921",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "AOKI takamasa",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/1676557.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "17297",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "窦唯",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32049.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14959",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "窦唯与不一定",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/879980.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14523",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "何勇",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32602.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "2262",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "崔健",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31964.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "2824",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "萧亚轩",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/31402.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "8799",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "李玟",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/32012.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "9638",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "温岚",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/31458.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "15637",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Corrinne May",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/31975.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14889",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Cara Dillon",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/32358.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "1584",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Alison Krauss",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/32735.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "47259",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Laura Story",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/904891.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "3634",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Al Green",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/48632.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12644",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Amy Diamond",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/33333.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "14007",
+    "gmtCreated": "2020-05-09 11:06:07",
+    "gmtModified": "2020-05-09 11:06:07",
+    "name": "Backworld",
+    "avatar": "https://img3.doubanio.com/f/fm/31cb344d1af3c34978484b17d9c3241d89259080/pics/fm/artist/default_avatar/person_large.png",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "5503",
+    "gmtCreated": "2020-05-09 11:06:08",
+    "gmtModified": "2020-05-09 11:06:08",
+    "name": "Angizia",
+    "avatar": "https://img9.doubanio.com/img/fmadmin/large/892034.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "10941",
+    "gmtCreated": "2020-05-09 11:06:08",
+    "gmtModified": "2020-05-09 11:06:08",
+    "name": "Alias",
+    "avatar": "https://img3.doubanio.com/f/fm/31cb344d1af3c34978484b17d9c3241d89259080/pics/fm/artist/default_avatar/person_large.png",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "30132",
+    "gmtCreated": "2020-05-09 11:06:08",
+    "gmtModified": "2020-05-09 11:06:08",
+    "name": "Tarsier",
+    "avatar": "https://img3.doubanio.com/f/fm/31cb344d1af3c34978484b17d9c3241d89259080/pics/fm/artist/default_avatar/person_large.png",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "12848",
+    "gmtCreated": "2020-05-09 11:06:08",
+    "gmtModified": "2020-05-09 11:06:08",
+    "name": "2002",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/49670.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "3191",
+    "gmtCreated": "2020-05-09 11:06:09",
+    "gmtModified": "2020-05-09 11:06:09",
+    "name": "Andrea Bocelli",
+    "avatar": "https://img3.doubanio.com/img/fmadmin/large/48820.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "7257",
+    "gmtCreated": "2020-05-09 11:06:10",
+    "gmtModified": "2020-05-09 11:06:10",
+    "name": "Agent 5.1",
+    "avatar": "https://img1.doubanio.com/img/fmadmin/large/1954818.jpg",
+    "homepage": null,
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298828",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "illchilli",
+    "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+    "homepage": "https://www.douban.com/people/194298828/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298824",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "苏七",
+    "avatar": "https://img3.doubanio.com/icon/ul194298824-1.jpg",
+    "homepage": "https://www.douban.com/people/194298824/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298825",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "停云",
+    "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+    "homepage": "https://www.douban.com/people/194298825/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298829",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "KREJERK",
+    "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+    "homepage": "https://www.douban.com/people/194298829/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298826",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "我小我",
+    "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+    "homepage": "https://www.douban.com/people/194298826/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298823",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "深⽔⽜",
+    "avatar": "https://img3.doubanio.com/icon/ul194298823-1.jpg",
+    "homepage": "https://www.douban.com/people/194298823/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "188236445",
+    "gmtCreated": "2018-12-04 00:00:00",
+    "gmtModified": "2018-12-04 00:00:00",
+    "name": "豆瓣FM官方",
+    "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+    "homepage": "https://www.douban.com/people/188236445/",
+    "similarSingerIds": null
+  },
+  {
+    "id": "194298822",
+    "gmtCreated": "2019-04-01 00:00:00",
+    "gmtModified": "2019-04-01 00:00:00",
+    "name": "锅炉不是锅",
+    "avatar": "https://img3.doubanio.com/icon/ul194298822-3.jpg",
+    "homepage": "https://www.douban.com/people/194298822/",
+    "similarSingerIds": null
+  }
+]

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      th:replace="layout">
+
+<div th:fragment="content">
+
+    <div class="form">
+        <div class="tabs">
+            <div class="tab login" tabindex="0"><a href="/login">密码登录</a></div>
+            <div class="tab signup tab-selected" tabindex="0">注册</div>
+        </div>
+        <div class="form-signup">
+            <input type="text" class="username" name="name" placeholder="请输入用户名">
+            <input type="password" class="pwd" name="password"  placeholder="请输入密码">
+            <input type="password" class="pwd-resure" name="mobile" placeholder="请确认密码">
+            <button type="submit" class="submit">注册豆瓣</button>
+        </div>
+    </div>
+
+</div>
+
+</html>

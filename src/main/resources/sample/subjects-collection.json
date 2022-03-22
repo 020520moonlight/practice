@@ -1,0 +1,1272 @@
+[
+  [
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298823-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298823/",
+        "id": "194298823",
+        "name": "深⽔⽜"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37355086-1.png",
+        "description": "你需要更多的Gang!!!",
+        "gmtCreated": "2020-05-12T14:53:31.372",
+        "gmtModified": "2020-05-12T14:53:31.372",
+        "id": "37355086",
+        "master": "194298823",
+        "name": "嘻哈：匪式边缘擦枪走火",
+        "publishedDate": "2019-07-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37182573-1.png",
+        "description": "尝一口1970年代的德国泡菜",
+        "gmtCreated": "2020-05-12T14:53:31.377",
+        "gmtModified": "2020-05-12T14:53:31.377",
+        "id": "37182573",
+        "master": "194298825",
+        "name": "当我们在谈论泡菜摇滚时，我们在吃什么",
+        "publishedDate": "2019-06-20",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022282-1.png",
+        "description": "即使秃头也要中二",
+        "gmtCreated": "2020-05-12T14:53:31.381",
+        "gmtModified": "2020-05-12T14:53:31.381",
+        "id": "37022282",
+        "master": "194298829",
+        "name": "经典｜那些无法磨灭的摇滚之声",
+        "publishedDate": "2019-06-07",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37183814-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.385",
+        "gmtModified": "2020-05-12T14:53:31.385",
+        "id": "37183814",
+        "master": "194298825",
+        "name": "回忆｜威士忌、香烟和老男人的故事会",
+        "publishedDate": "2019-07-10",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298823-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298823/",
+        "id": "194298823",
+        "name": "深⽔⽜"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37139049-1.png",
+        "description": "握紧那本“儿歌三百首”好吗？",
+        "gmtCreated": "2020-05-12T14:53:31.389",
+        "gmtModified": "2020-05-12T14:53:31.389",
+        "id": "37139049",
+        "master": "194298823",
+        "name": "R&B｜在迷幻中支离破碎",
+        "publishedDate": "2019-06-08",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/42137701-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.393",
+        "gmtModified": "2020-05-12T14:53:31.393",
+        "id": "42137701",
+        "master": "194298828",
+        "name": "Jazz｜纯音乐｜独享灵魂舞蹈时间",
+        "publishedDate": "2020-01-20",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298823-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298823/",
+        "id": "194298823",
+        "name": "深⽔⽜"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37379733-1.png",
+        "description": "可以陪你一整天的宝藏单。",
+        "gmtCreated": "2020-05-12T14:53:31.397",
+        "gmtModified": "2020-05-12T14:53:31.397",
+        "id": "37379733",
+        "master": "194298823",
+        "name": "6:40过后享受的精神慢乐迪",
+        "publishedDate": "2019-07-06",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022327-1.png",
+        "description": "我永远喜欢傍晚的天际线",
+        "gmtCreated": "2020-05-12T14:53:31.401",
+        "gmtModified": "2020-05-12T14:53:31.401",
+        "id": "37022327",
+        "master": "194298829",
+        "name": "这是我想要的落日飞车的感觉",
+        "publishedDate": "2019-06-12",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298824-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298824/",
+        "id": "194298824",
+        "name": "苏七"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37650241-1.png",
+        "description": "7月被里根总统定为全美冰淇淋月",
+        "gmtCreated": "2020-05-12T14:53:31.405",
+        "gmtModified": "2020-05-12T14:53:31.405",
+        "id": "37650241",
+        "master": "194298824",
+        "name": "原来真有“冰淇淋月”",
+        "publishedDate": "2020-05-02",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022819-1.png",
+        "description": "毕竟我们也是后摇百姓化始作俑者",
+        "gmtCreated": "2020-05-12T14:53:31.409",
+        "gmtModified": "2020-05-12T14:53:31.409",
+        "id": "37022819",
+        "master": "188236445",
+        "name": "无论如何都会有一个后摇歌单你说对吧",
+        "publishedDate": "2019-06-11",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298824-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298824/",
+        "id": "194298824",
+        "name": "苏七"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37328203-1.png",
+        "description": "芝加哥爵士乐的发展离不开夜总会",
+        "gmtCreated": "2020-05-12T14:53:31.412",
+        "gmtModified": "2020-05-12T14:53:31.412",
+        "id": "37328203",
+        "master": "194298824",
+        "name": "睡前微醺 | 喝下这杯安眠爵士",
+        "publishedDate": "2019-06-22",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37182674-1.png",
+        "description": "如果在纽约街头相遇，请拥抱我。",
+        "gmtCreated": "2020-05-12T14:53:31.416",
+        "gmtModified": "2020-05-12T14:53:31.416",
+        "id": "37182674",
+        "master": "194298825",
+        "name": "流行‖ 悠闲舒适 陷入慵懒漩涡",
+        "publishedDate": "2019-07-09",
+        "subjectType": "collection"
+      }
+    }
+  ],
+  [
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298822-3.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298822/",
+        "id": "194298822",
+        "name": "锅炉不是锅"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37112683-1.png",
+        "description": "“会让人快乐”，非常高的评价。",
+        "gmtCreated": "2020-05-12T14:53:31.373",
+        "gmtModified": "2020-05-12T14:53:31.373",
+        "id": "37112683",
+        "master": "194298822",
+        "name": "听了会变快乐的电子舞曲",
+        "publishedDate": "2019-06-11",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37645192-1.png",
+        "description": "结局一早写就，过程依然精彩。",
+        "gmtCreated": "2020-05-12T14:53:31.377",
+        "gmtModified": "2020-05-12T14:53:31.377",
+        "id": "37645192",
+        "master": "188236445",
+        "name": "Sarah Records：我隐秘的世界",
+        "publishedDate": "2019-07-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022224-1.png",
+        "description": "好想去银河中睡觉",
+        "gmtCreated": "2020-05-12T14:53:31.382",
+        "gmtModified": "2020-05-12T14:53:31.382",
+        "id": "37022224",
+        "master": "194298828",
+        "name": "夜晚｜专属你的捕梦旋律",
+        "publishedDate": "2019-06-07",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37182292-1.png",
+        "description": "摘要：良辰好景，与何人说？",
+        "gmtCreated": "2020-05-12T14:53:31.386",
+        "gmtModified": "2020-05-12T14:53:31.386",
+        "id": "37182292",
+        "master": "194298825",
+        "name": "Yann Tiersen：宛如灯塔",
+        "publishedDate": "2019-06-19",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37023667-1.png",
+        "description": "情绪就是那块海绵",
+        "gmtCreated": "2020-05-12T14:53:31.390",
+        "gmtModified": "2020-05-12T14:53:31.390",
+        "id": "37023667",
+        "master": "194298829",
+        "name": "Trip-Hop_1:让干涸的海绵充满电",
+        "publishedDate": "2019-06-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/42069901-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.394",
+        "gmtModified": "2020-05-12T14:53:31.394",
+        "id": "42069901",
+        "master": "194298828",
+        "name": "静谧轻音乐｜给自己的心灵做放松",
+        "publishedDate": "2020-01-16",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37358399-1.png",
+        "description": "丹麦骚年",
+        "gmtCreated": "2020-05-12T14:53:31.398",
+        "gmtModified": "2020-05-12T14:53:31.398",
+        "id": "37358399",
+        "master": "194298826",
+        "name": "忧郁少年的纯真挽歌",
+        "publishedDate": "2019-07-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37023608-1.png",
+        "description": "大叔的欢乐悲伤碎碎念",
+        "gmtCreated": "2020-05-12T14:53:31.402",
+        "gmtModified": "2020-05-12T14:53:31.402",
+        "id": "37023608",
+        "master": "194298825",
+        "name": "马克·科兹莱克：凝视悲伤，自成宇宙",
+        "publishedDate": "2019-06-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37525473-1.png",
+        "description": "Marcus",
+        "gmtCreated": "2020-05-12T14:53:31.406",
+        "gmtModified": "2020-05-12T14:53:31.406",
+        "id": "37525473",
+        "master": "194298826",
+        "name": "「器乐」听一个贝斯当主角的歌单吧",
+        "publishedDate": "2019-08-07",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022234-1.png",
+        "description": "不管你是谁",
+        "gmtCreated": "2020-05-12T14:53:31.409",
+        "gmtModified": "2020-05-12T14:53:31.409",
+        "id": "37022234",
+        "master": "194298829",
+        "name": "让琼尼·米切尔融化你的冰冷人格",
+        "publishedDate": "2019-06-21",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37181895-1.png",
+        "description": "来自日本的朋克乐队",
+        "gmtCreated": "2020-05-12T14:53:31.413",
+        "gmtModified": "2020-05-12T14:53:31.413",
+        "id": "37181895",
+        "master": "194298828",
+        "name": "『日系朋克』永不熄灭的青春之火",
+        "publishedDate": "2019-06-15",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37182633-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.417",
+        "gmtModified": "2020-05-12T14:53:31.417",
+        "id": "37182633",
+        "master": "194298829",
+        "name": "读书：你远道而来这世界，想必是因为热爱吧",
+        "publishedDate": "2019-06-20",
+        "subjectType": "collection"
+      }
+    }
+  ],
+  [
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37023160-1.png",
+        "description": "千湖之国曾有近3800支重金属",
+        "gmtCreated": "2020-05-12T14:53:31.374",
+        "gmtModified": "2020-05-12T14:53:31.374",
+        "id": "37023160",
+        "master": "188236445",
+        "name": "芬兰：金属音乐丛生的声音密林",
+        "publishedDate": "2019-06-05",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37329018-1.png",
+        "description": "尝试让每个星期一变得轻松",
+        "gmtCreated": "2020-05-12T14:53:31.378",
+        "gmtModified": "2020-05-12T14:53:31.378",
+        "id": "37329018",
+        "master": "194298828",
+        "name": "星期一依然可以微笑",
+        "publishedDate": "2019-07-01",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/39191344-1.png",
+        "description": "南韩乐队Hyukoh",
+        "gmtCreated": "2020-05-12T14:53:31.382",
+        "gmtModified": "2020-05-12T14:53:31.382",
+        "id": "39191344",
+        "master": "194298828",
+        "name": "韩国独立摇滚|Hyukoh的鸿鹄之志",
+        "publishedDate": "2019-09-05",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37159706-1.png",
+        "description": "sabbath",
+        "gmtCreated": "2020-05-12T14:53:31.386",
+        "gmtModified": "2020-05-12T14:53:31.386",
+        "id": "37159706",
+        "master": "194298829",
+        "name": "真正有安息日味道的是这些乐队",
+        "publishedDate": "2019-06-14",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37023369-1.png",
+        "description": "在童话之乡，一切声音皆有可能。",
+        "gmtCreated": "2020-05-12T14:53:31.390",
+        "gmtModified": "2020-05-12T14:53:31.390",
+        "id": "37023369",
+        "master": "188236445",
+        "name": "丹麦：在童话之乡歌唱",
+        "publishedDate": "2019-06-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298822-3.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298822/",
+        "id": "194298822",
+        "name": "锅炉不是锅"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/42196380-1.png",
+        "description": "可以说是舞王了！",
+        "gmtCreated": "2020-05-12T14:53:31.394",
+        "gmtModified": "2020-05-12T14:53:31.394",
+        "id": "42196380",
+        "master": "194298822",
+        "name": "Chris Brown：唱跳俱佳大喜碧",
+        "publishedDate": "2020-01-26",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37332196-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.399",
+        "gmtModified": "2020-05-12T14:53:31.399",
+        "id": "37332196",
+        "master": "194298826",
+        "name": "音乐品味决定交友基础",
+        "publishedDate": "2019-06-28",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/38517480-1.png",
+        "description": "甜甜蜜蜜",
+        "gmtCreated": "2020-05-12T14:53:31.403",
+        "gmtModified": "2020-05-12T14:53:31.403",
+        "id": "38517480",
+        "master": "194298828",
+        "name": "为你开一间24小时营业的糖果店",
+        "publishedDate": "2019-07-28",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37501656-1.png",
+        "description": "柏林地下之声",
+        "gmtCreated": "2020-05-12T14:53:31.406",
+        "gmtModified": "2020-05-12T14:53:31.406",
+        "id": "37501656",
+        "master": "194298826",
+        "name": "真潮人只听这个歌单也不进Berghain",
+        "publishedDate": "2019-07-25",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022152-1.png",
+        "description": "他替雅克·德米找到了歌声",
+        "gmtCreated": "2020-05-12T14:53:31.410",
+        "gmtModified": "2020-05-12T14:53:31.410",
+        "id": "37022152",
+        "master": "194298825",
+        "name": "米歇尔·勒格朗：再见，新浪潮之声",
+        "publishedDate": "2020-05-01",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37160119-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.414",
+        "gmtModified": "2020-05-12T14:53:31.414",
+        "id": "37160119",
+        "master": "194298826",
+        "name": "电子 | 温暖与孤独交织",
+        "publishedDate": "2019-06-13",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37204165-1.png",
+        "description": "Chill与自由不受限！",
+        "gmtCreated": "2020-05-12T14:53:31.418",
+        "gmtModified": "2020-05-12T14:53:31.418",
+        "id": "37204165",
+        "master": "194298828",
+        "name": "你见过的最美春天，都藏在了这些旋律里  ",
+        "publishedDate": "2019-06-05",
+        "subjectType": "collection"
+      }
+    }
+  ],
+  [
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022993-1.png",
+        "description": "一个长达数小时的迷幻歌单",
+        "gmtCreated": "2020-05-12T14:53:31.375",
+        "gmtModified": "2020-05-12T14:53:31.375",
+        "id": "37022993",
+        "master": "194298829",
+        "name": "太空水手摇摆舞之歌",
+        "publishedDate": "2019-06-06",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37181621-1.png",
+        "description": "春晓苦短，都要快乐啊。",
+        "gmtCreated": "2020-05-12T14:53:31.379",
+        "gmtModified": "2020-05-12T14:53:31.379",
+        "id": "37181621",
+        "master": "194298825",
+        "name": "宣告黎明的汤浅政明之歌",
+        "publishedDate": "2019-06-15",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37329561-1.png",
+        "description": "与美好的清晨say",
+        "gmtCreated": "2020-05-12T14:53:31.383",
+        "gmtModified": "2020-05-12T14:53:31.383",
+        "id": "37329561",
+        "master": "194298828",
+        "name": "「Chill」与美好的清晨Say hi",
+        "publishedDate": "2019-08-18",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37134861-1.png",
+        "description": "",
+        "gmtCreated": "2020-05-12T14:53:31.387",
+        "gmtModified": "2020-05-12T14:53:31.387",
+        "id": "37134861",
+        "master": "194298826",
+        "name": "陷入爱情｜相爱的感觉真好",
+        "publishedDate": "2019-06-08",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022520-1.png",
+        "description": "游车河，听老歌",
+        "gmtCreated": "2020-05-12T14:53:31.391",
+        "gmtModified": "2020-05-12T14:53:31.391",
+        "id": "37022520",
+        "master": "194298825",
+        "name": "夏夜最后一束霓虹光影",
+        "publishedDate": "2019-06-08",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298822-3.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298822/",
+        "id": "194298822",
+        "name": "锅炉不是锅"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37525848-1.png",
+        "description": "流行音乐不流行",
+        "gmtCreated": "2020-05-12T14:53:31.395",
+        "gmtModified": "2020-05-12T14:53:31.395",
+        "id": "37525848",
+        "master": "194298822",
+        "name": "不怎么流行的流行歌",
+        "publishedDate": "2019-07-03",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37158942-1.png",
+        "description": "For",
+        "gmtCreated": "2020-05-12T14:53:31.399",
+        "gmtModified": "2020-05-12T14:53:31.399",
+        "id": "37158942",
+        "master": "194298829",
+        "name": "最甜美的爵士应该是什么样子",
+        "publishedDate": "2019-06-21",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/38015562-1.png",
+        "description": "采用错误姿势跳水可能引起受伤！",
+        "gmtCreated": "2020-05-12T14:53:31.403",
+        "gmtModified": "2020-05-12T14:53:31.403",
+        "id": "38015562",
+        "master": "194298829",
+        "name": "《初中舞台跳水姿势-方法与技巧》",
+        "publishedDate": "2019-07-11",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298822-3.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298822/",
+        "id": "194298822",
+        "name": "锅炉不是锅"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37498885-1.png",
+        "description": "离开地球，飞向宇宙。",
+        "gmtCreated": "2020-05-12T14:53:31.407",
+        "gmtModified": "2020-05-12T14:53:31.407",
+        "id": "37498885",
+        "master": "194298822",
+        "name": "宇宙漫步者——太阳系",
+        "publishedDate": "2019-06-30",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37381444-2.png",
+        "description": "关于HipHop采样鉴赏",
+        "gmtCreated": "2020-05-12T14:53:31.411",
+        "gmtModified": "2020-05-12T14:53:31.411",
+        "id": "37381444",
+        "master": "188236445",
+        "name": "嘻哈风情 | 不要压抑，选择失控",
+        "publishedDate": "2019-06-22",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37159021-1.png",
+        "description": "这里有永恒，这里是一日。",
+        "gmtCreated": "2020-05-12T14:53:31.415",
+        "gmtModified": "2020-05-12T14:53:31.415",
+        "id": "37159021",
+        "master": "194298825",
+        "name": "影视原声｜被放大的思念再也无法掩饰 ",
+        "publishedDate": "2019-06-12",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37355462-1.png",
+        "description": "人人都爱听宽街",
+        "gmtCreated": "2020-05-12T14:53:31.419",
+        "gmtModified": "2020-05-12T14:53:31.419",
+        "id": "37355462",
+        "master": "188236445",
+        "name": "浪漫资本主义·百老汇摇摆舞·出水芙蓉",
+        "publishedDate": "2019-06-09",
+        "subjectType": "collection"
+      }
+    }
+  ],
+  [
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37277177-1.png",
+        "description": "狂沙席卷，被宁静湖畔打断",
+        "gmtCreated": "2020-05-12T14:53:31.376",
+        "gmtModified": "2020-05-12T14:53:31.376",
+        "id": "37277177",
+        "master": "194298829",
+        "name": "这种阴郁的波斯乐器叫HurdyGurdy",
+        "publishedDate": "2019-06-18",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022668-1.png",
+        "description": "你看得见孤独的影子",
+        "gmtCreated": "2020-05-12T14:53:31.380",
+        "gmtModified": "2020-05-12T14:53:31.380",
+        "id": "37022668",
+        "master": "194298825",
+        "name": "City Pop与爱德华·霍伯的孤独城市",
+        "publishedDate": "2020-05-10",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298824-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298824/",
+        "id": "194298824",
+        "name": "苏七"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37184511-1.png",
+        "description": "左耳听雨右耳听歌",
+        "gmtCreated": "2020-05-12T14:53:31.384",
+        "gmtModified": "2020-05-12T14:53:31.384",
+        "id": "37184511",
+        "master": "194298824",
+        "name": "只有在北方的雨天里才能闻到家的味道",
+        "publishedDate": "2019-06-06",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298828-2.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298828/",
+        "id": "194298828",
+        "name": "illchilli"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37026374-1.png",
+        "description": "亚裔力量接管TrapHouse",
+        "gmtCreated": "2020-05-12T14:53:31.388",
+        "gmtModified": "2020-05-12T14:53:31.388",
+        "id": "37026374",
+        "master": "194298828",
+        "name": "「日韩陷阱」亚裔力量接管TrapHous",
+        "publishedDate": "2019-06-12",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298822-3.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298822/",
+        "id": "194298822",
+        "name": "锅炉不是锅"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/41982742-1.png",
+        "description": "9012",
+        "gmtCreated": "2020-05-12T14:53:31.392",
+        "gmtModified": "2020-05-12T14:53:31.392",
+        "id": "41982742",
+        "master": "194298822",
+        "name": "【综艺】Running Man配乐精选",
+        "publishedDate": "2020-01-11",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37023344-1.png",
+        "description": "这些名字都曾出现在切尔西旅馆",
+        "gmtCreated": "2020-05-12T14:53:31.396",
+        "gmtModified": "2020-05-12T14:53:31.396",
+        "id": "37023344",
+        "master": "188236445",
+        "name": "纽约：在切尔西旅馆醒来的清晨",
+        "publishedDate": "2019-06-27",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298825-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298825/",
+        "id": "194298825",
+        "name": "停云"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022552-1.png",
+        "description": "除了西瓜，也要有音乐呀",
+        "gmtCreated": "2020-05-12T14:53:31.400",
+        "gmtModified": "2020-05-12T14:53:31.400",
+        "id": "37022552",
+        "master": "194298825",
+        "name": "日语流行｜与夏天有关的一切",
+        "publishedDate": "2020-05-04",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37976589-1.png",
+        "description": "咱年轻人自己的厂牌",
+        "gmtCreated": "2020-05-12T14:53:31.404",
+        "gmtModified": "2020-05-12T14:53:31.404",
+        "id": "37976589",
+        "master": "188236445",
+        "name": "Soulection：电子新声挖掘机",
+        "publishedDate": "2019-07-09",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298829-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298829/",
+        "id": "194298829",
+        "name": "KREJERK"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37354071-1.png",
+        "description": "来自厂牌MiddleMan",
+        "gmtCreated": "2020-05-12T14:53:31.408",
+        "gmtModified": "2020-05-12T14:53:31.408",
+        "id": "37354071",
+        "master": "194298829",
+        "name": "我们对Emo的误解太深了",
+        "publishedDate": "2019-07-09",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37361850-1.png",
+        "description": "工作时间打个鸡血",
+        "gmtCreated": "2020-05-12T14:53:31.412",
+        "gmtModified": "2020-05-12T14:53:31.412",
+        "id": "37361850",
+        "master": "194298826",
+        "name": "唤醒瞌睡大脑，工作倍增动力",
+        "publishedDate": "2019-07-11",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul188236445-3.jpg",
+        "gmtCreated": "2018-12-04T00:00:00",
+        "gmtModified": "2018-12-04T00:00:00",
+        "homepage": "https://www.douban.com/people/188236445/",
+        "id": "188236445",
+        "name": "豆瓣FM官方"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37022631-1.png",
+        "description": "\"人人都爱City",
+        "gmtCreated": "2020-05-12T14:53:31.416",
+        "gmtModified": "2020-05-12T14:53:31.416",
+        "id": "37022631",
+        "master": "188236445",
+        "name": "City pop | 脱丧俱乐部里的复古",
+        "publishedDate": "2020-04-29",
+        "subjectType": "collection"
+      }
+    },
+    {
+      "singer": {
+        "avatar": "https://img3.doubanio.com/icon/ul194298826-1.jpg",
+        "gmtCreated": "2019-04-01T00:00:00",
+        "gmtModified": "2019-04-01T00:00:00",
+        "homepage": "https://www.douban.com/people/194298826/",
+        "id": "194298826",
+        "name": "我小我"
+      },
+      "subject": {
+        "cover": "https://img3.doubanio.com/img/songlist/large/37305229-1.png",
+        "description": "undercurrent",
+        "gmtCreated": "2020-05-12T14:53:31.420",
+        "gmtModified": "2020-05-12T14:53:31.420",
+        "id": "37305229",
+        "master": "194298826",
+        "name": "摇滚：一份单纯的热爱和执着",
+        "publishedDate": "2019-07-06",
+        "subjectType": "collection"
+      }
+    }
+  ]
+]
